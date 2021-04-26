@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\user\OneDrive\UCSP\Visual Studio\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(39,14): warning C4101: 'temp': variable local sin referencia
+  ConsoleApplication4.vcxproj -> C:\Users\user\OneDrive\UCSP\Visual Studio\ConsoleApplication4\Debug\ConsoleApplication4.exe
